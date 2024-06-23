@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetC88_1 Pin=C?-1
-Removed Pin From Net: NetName=GND Pin=C?-2
-Removed Member From Class: ClassName=U_POWER Member=C?
-Change Component Designator: OldDesignator=C? NewDesignator=C39
-Change Net Name : Old Net Name=NetC88_1 New Net Name=NetC39_1
-Added Member To Class: ClassName=U_POWER Member=Component C39 GRM32ER61C476KE15L

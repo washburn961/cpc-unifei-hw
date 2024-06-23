@@ -1,5 +1,0 @@
-Change Net Name : Old Net Name=NetIC1_4 New Net Name=USB_CON_N
-Change Net Name : Old Net Name=NetIC1_6 New Net Name=USB_CON_P
-Added Differential Pair: Name=USB_CON
-Added Member To Class: ClassName=USB Member=Wire USB_CON_N
-Added Member To Class: ClassName=USB Member=Wire USB_CON_P

@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=POWER_INPUT Pin=J20-1
-Removed Pin From Net: NetName=GND Pin=J20-2
-Removed Pin From Net: NetName=GND Pin=J20-3
-Removed Member From Class: ClassName=TOP_LEVEL Member=J20
-Change Component Footprint: Designator=C56 Old Footprint=FP-GCM188-0_1-IPC_B New Footprint=FP-GCM188-0_1-IPC_B
-Change Component Footprint: Designator=D7 Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000
-Change Component Footprint: Designator=D8 Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000

@@ -1,0 +1,8 @@
+Add Pin To Net: Pin=J8-01 Old Net=NetJ8_01 New Net=ISO_IN1_B
+Add Pin To Net: Pin=J8-03 Old Net=NetJ8_03 New Net=ISO_IN2_B
+Add Pin To Net: Pin=J8-05 Old Net=NetJ8_05 New Net=ISO_IN1_A
+Add Pin To Net: Pin=J8-07 Old Net=NetJ8_07 New Net=ISO_IN2_A
+Add Pin To Net: Pin=J11-01 Old Net=NetJ11_01 New Net=ISO_IN1_D
+Add Pin To Net: Pin=J11-03 Old Net=NetJ11_03 New Net=ISO_IN2_D
+Add Pin To Net: Pin=J11-05 Old Net=NetJ11_05 New Net=ISO_IN1_C
+Add Pin To Net: Pin=J11-07 Old Net=NetJ11_07 New Net=ISO_IN2_C

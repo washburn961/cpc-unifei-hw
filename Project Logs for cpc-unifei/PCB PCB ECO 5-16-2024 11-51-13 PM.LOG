@@ -1,0 +1,12 @@
+Change Component Comment : Designator=J11 Old Comment=1803484 New Comment=2
+Added Component: Designator=J4(PHOE-1803426_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.phoenixcontact.com/online/portal/cn/pxc/product_detail_page/!ut/p/b1/3VfHjrNIGHyWeQDG5HAkm5zjxQIM2AQDNvnp1zNa7WFX889l5YPpA6L1qUtVdFX3d4gPEYCiFAaBJHgID_Etma9lMl67W9J8fcf4iRJ1HIRRHAIZDANpTKVtR3IFAyUOwSEE0ZNTbb2iOquuOqg8OKsEReRD0XpT8cAJtHK1h62gd5Lwwj7fSR7gfNZiWNE2tu2Xg71pvaHw3VHbDIccysUbixteZxggMWJnxWgP9KIolKko13HrKNI0OD69xjcsLwZb9oJmcNi4flh1xw9LW6-eWTQ9nREGMg82nQ7i5d6Jdk07dw7fZbrokLagaoyYggEvB4C7H5W4HERjSAam7I1pSvC1iqzSu8itk8CidtE6n3bP2nD0Pp6iRD-LQiLob5pFzwLixwIWO7iH0PcgleukhedgldkYbrFLA5WSM7ufG5_qGPkUc9vEzZQaS901mlWkPYn5tWxhabkCUfW4SsSIbpPuMIJHpQReslhERyEnqVrZBIU1V5Nilrs5X123FVtC3BVOSLHMP1b6PfXsNSgk1T-F50SEmtzqQUXqhsW5rwQ1o0BXB2gELrcQ4gCUoNAFTBX6N2LEmxJz0Hclhr8rsXf1mPOuHoPf1WPwu3oMflePSW-7Fd81PGj4i1jqc2r6kGnO3K4b7QxsE14hAduG8C7FaT2GvZ7I-s0j05SGAI1kaO9y99Mt55acg9cLDNYaWwQcdDTPAtjrfMY1OBkOcVEr9HZ8tGspIQLbIVDtpjctgzHFMG4BAZsGvQthBBH4WA-nFo17BJ08nhvnnSIvtClxxDZLZLDt43EXgXAD-FUl6xp1LReX8w3Sb-3dEFiLergsTPmiPWlKHKTnUE9MvjMWis8MoKAxhXcLRQoyR1OjaJFnuS2q9AQSlWi71_PQS1I7hwNcTAR9vGjIY_k4yIf4mrafS9Z-gp_9mn329-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1803426"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=POWER_INPUT Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=TOP_LEVEL Member=Component J4 1803426

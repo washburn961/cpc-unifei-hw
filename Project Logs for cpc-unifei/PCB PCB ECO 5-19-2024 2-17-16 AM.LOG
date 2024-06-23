@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=PD11 New Net Name=ADC_BUSY
+Change Net Name : Old Net Name=PD12 New Net Name=ADC_CONVST
+Change Net Name : Old Net Name=PD13 New Net Name=ADC_RESET
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Class: Name=ADC_SPI
+Added Rule: Name=Schematic Width Constraint_1

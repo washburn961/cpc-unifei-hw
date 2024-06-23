@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PD11 Pin=TP92-1
+Added Pin To Net: NetName=PD12 Pin=TP93-1
+Added Pin To Net: NetName=RESET Pin=U1-82
+Added Pin To Net: NetName=PD11 Pin=U19-67
+Added Pin To Net: NetName=PD12 Pin=U19-68
+Change Net Name : Old Net Name=RESET New Net Name=PD13

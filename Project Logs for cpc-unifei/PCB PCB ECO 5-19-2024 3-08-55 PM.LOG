@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PC14-OSC32_IN Pin=Y2-3
+Added Pin To Net: NetName=PH0-OSC_IN Pin=Y2-3

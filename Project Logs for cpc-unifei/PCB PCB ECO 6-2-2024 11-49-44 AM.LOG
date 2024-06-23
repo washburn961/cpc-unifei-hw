@@ -1,0 +1,80 @@
+Added Component: Designator=J?(PHOENIX_1803484)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Phoenix Contact'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1803484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(PHOENIX_1803484)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Phoenix Contact'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1803484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(PHOENIX_1803484)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Phoenix Contact'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1803484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(PHOENIX_1803484)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Phoenix Contact'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1803484"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ISO_IN2_B_GND Pin=J?-01
+Added Pin To Net: NetName=ISO_IN2_D_GND Pin=J?-01
+Added Pin To Net: NetName=ISO_IN2_B Pin=J?-02
+Added Pin To Net: NetName=ISO_IN2_D Pin=J?-02
+Added Pin To Net: NetName=ISO_IN1_B_GND Pin=J?-03
+Added Pin To Net: NetName=ISO_IN1_D_GND Pin=J?-03
+Added Pin To Net: NetName=ISO_IN1_B Pin=J?-04
+Added Pin To Net: NetName=ISO_IN1_D Pin=J?-04
+Added Pin To Net: NetName=ISO_IN2_A_GND Pin=J?-05
+Added Pin To Net: NetName=ISO_IN2_C_GND Pin=J?-05
+Added Pin To Net: NetName=ISO_IN2_A Pin=J?-06
+Added Pin To Net: NetName=ISO_IN2_C Pin=J?-06
+Added Pin To Net: NetName=ISO_IN1_A_GND Pin=J?-07
+Added Pin To Net: NetName=ISO_IN1_C_GND Pin=J?-07
+Added Pin To Net: NetName=ISO_IN1_A Pin=J?-08
+Added Pin To Net: NetName=ISO_IN1_C Pin=J?-08
+Added Pin To Net: NetName=NetJ?_01 Pin=J?-01
+Added Pin To Net: NetName=NetJ?_01 Pin=K8-3
+Added Net: Name=NetJ?_01
+Add Net: Net with name "NetJ?_01" already exists
+Added Pin To Net: NetName=NetJ?_02 Pin=J?-02
+Added Pin To Net: NetName=NetJ?_02 Pin=K8-4
+Added Net: Name=NetJ?_02
+Add Net: Net with name "NetJ?_02" already exists
+Added Pin To Net: NetName=NetJ?_03 Pin=J?-03
+Added Pin To Net: NetName=NetJ?_03 Pin=K7-3
+Added Net: Name=NetJ?_03
+Add Net: Net with name "NetJ?_03" already exists
+Added Pin To Net: NetName=NetJ?_04 Pin=J?-04
+Added Pin To Net: NetName=NetJ?_04 Pin=K7-4
+Added Net: Name=NetJ?_04
+Add Net: Net with name "NetJ?_04" already exists
+Added Pin To Net: NetName=NetJ?_05 Pin=J?-05
+Added Pin To Net: NetName=NetJ?_05 Pin=K1-3
+Added Net: Name=NetJ?_05
+Add Net: Net with name "NetJ?_05" already exists
+Added Pin To Net: NetName=NetJ?_06 Pin=J?-06
+Added Pin To Net: NetName=NetJ?_06 Pin=K1-4
+Added Net: Name=NetJ?_06
+Add Net: Net with name "NetJ?_06" already exists
+Added Pin To Net: NetName=NetJ?_07 Pin=J?-07
+Added Pin To Net: NetName=NetJ?_07 Pin=K6-3
+Added Net: Name=NetJ?_07
+Add Net: Net with name "NetJ?_07" already exists
+Added Pin To Net: NetName=NetJ?_08 Pin=J?-08
+Added Pin To Net: NetName=NetJ?_08 Pin=K2-4
+Added Net: Name=NetJ?_08
+Add Net: Net with name "NetJ?_08" already exists
+Added Member To Class: ClassName=U_DIGITAL_INPUTS Member=Component J? 1803484
+Added Member To Class: ClassName=U_DIGITAL_INPUTS Member=Component J? 1803484
+Added Member To Class: ClassName=U_DIGITAL_OUTPUTS_BLOCK_A Member=Component J? 1803484
+Added Member To Class: ClassName=U_DIGITAL_OUTPUTS_BLOCK_B Member=Component J? 1803484

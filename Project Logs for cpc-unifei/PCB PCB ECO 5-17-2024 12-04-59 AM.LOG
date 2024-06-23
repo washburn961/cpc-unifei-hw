@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D? Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000
+Change Component Designator: OldDesignator=D? NewDesignator=D12
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD12_1

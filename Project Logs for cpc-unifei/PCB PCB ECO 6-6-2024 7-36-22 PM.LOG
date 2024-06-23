@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC28_1 Pin=J8-02
+Removed Pin From Net: NetName=NetC29_1 Pin=J8-04
+Removed Pin From Net: NetName=NetC2_1 Pin=J8-06
+Removed Pin From Net: NetName=NetC18_1 Pin=J8-08
+Removed Pin From Net: NetName=NetC32_1 Pin=J11-02
+Removed Pin From Net: NetName=NetC33_1 Pin=J11-04
+Removed Pin From Net: NetName=NetC30_1 Pin=J11-06
+Removed Pin From Net: NetName=NetC31_1 Pin=J11-08
+Added Pin To Net: NetName=ISO_IN1_B_GND Pin=J8-02
+Added Pin To Net: NetName=ISO_IN2_B_GND Pin=J8-04
+Added Pin To Net: NetName=ISO_IN1_A_GND Pin=J8-06
+Added Pin To Net: NetName=ISO_IN2_A_GND Pin=J8-08
+Added Pin To Net: NetName=ISO_IN1_D_GND Pin=J11-02
+Added Pin To Net: NetName=ISO_IN2_D_GND Pin=J11-04
+Added Pin To Net: NetName=ISO_IN1_C_GND Pin=J11-06
+Added Pin To Net: NetName=ISO_IN2_C_GND Pin=J11-08
+Added Member To Class: ClassName=U_DIGITAL_INPUTS Member=Component J8 1803484
+Add Class Member: Failed to add class member : Component J14 1803578
+Add Class Member: Failed to add class member : Component J16 1803633
+Add Class Member: Failed to add class member : Component J17 1803633
+Add Class Member: Failed to add class member : Component J18 1803633
+Add Class Member: Failed to add class member : Component J19 1803633
+Add Class Member: Failed to add class member : Component J20 1803633
+Add Class Member: Failed to add class member : Component J22 1803633
+Add Class Member: Failed to add class member : Component J23 1803633
+Add Class Member: Failed to add class member : Component J24 1803633

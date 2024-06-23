@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+3.3V Pin=U11-1
+Removed Pin From Net: NetName=+3.3V Pin=U11-2
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=+5V Pin=U11-4
+Removed Pin From Net: NetName=GND Pin=U11-5
+Removed Pin From Net: NetName=+5V Pin=U11-6
+Removed Pin From Net: NetName=GND Pin=U11-7
+Removed Member From Class: ClassName=U_POWER Member=U11
+Added Component: Designator=U2(SOP65P490X110-9N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLV76733DGNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlv76733dgnr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tlv767.pdf?ts=1601893180135&ref_url=https%253A%252F%252Fduckduckgo.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV76733DGNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV76733DGNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV76733DGNR?qs=W%2FMpXkg%252BdQ7WCurh%2FfEdlw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=U2-1
+Added Pin To Net: NetName=+3.3V Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=+5V Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=+5V Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Member To Class: ClassName=U_POWER Member=Component U2 TLV76733DGNR

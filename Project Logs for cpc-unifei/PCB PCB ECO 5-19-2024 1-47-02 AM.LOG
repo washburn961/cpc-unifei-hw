@@ -1,0 +1,3 @@
+Added Class: Name=RMII
+Added Rule: Name=Schematic Width Constraint
+Change Rule Scope 1 : Old Scope=InNet('PB12') New Scope=InNetClass('RMII')

@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=U_DIGITAL_OUTPUTS_BLOCK_A Member=J?
+Removed Member From Class: ClassName=U_DIGITAL_OUTPUTS_BLOCK_B Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Net Name : Old Net Name=NetJ?_01 New Net Name=NetJ13_01
+Change Net Name : Old Net Name=NetJ?_02 New Net Name=NetJ13_02
+Change Net Name : Old Net Name=NetJ?_03 New Net Name=NetJ13_03
+Change Net Name : Old Net Name=NetJ?_04 New Net Name=NetJ13_04
+Change Net Name : Old Net Name=NetJ?_05 New Net Name=NetJ12_05
+Change Net Name : Old Net Name=NetJ?_06 New Net Name=NetJ12_06
+Change Net Name : Old Net Name=NetJ?_07 New Net Name=NetJ13_07
+Change Net Name : Old Net Name=NetJ?_08 New Net Name=NetJ12_08
+Added Pin To Net: NetName=NetJ12_01 Pin=J12-01
+Added Pin To Net: NetName=NetJ12_01 Pin=K4-3
+Added Net: Name=NetJ12_01
+Added Pin To Net: NetName=NetJ12_02 Pin=J12-02
+Added Pin To Net: NetName=NetJ12_02 Pin=K4-4
+Added Net: Name=NetJ12_02
+Added Pin To Net: NetName=NetJ12_03 Pin=J12-03
+Added Pin To Net: NetName=NetJ12_03 Pin=K3-3
+Added Net: Name=NetJ12_03
+Added Pin To Net: NetName=NetJ12_04 Pin=J12-04
+Added Pin To Net: NetName=NetJ12_04 Pin=K3-4
+Added Net: Name=NetJ12_04
+Added Pin To Net: NetName=NetJ12_07 Pin=J12-07
+Added Pin To Net: NetName=NetJ12_07 Pin=K2-3
+Added Net: Name=NetJ12_07
+Added Pin To Net: NetName=NetJ13_05 Pin=J13-05
+Added Pin To Net: NetName=NetJ13_05 Pin=K5-3
+Added Net: Name=NetJ13_05
+Added Pin To Net: NetName=NetJ13_06 Pin=J13-06
+Added Pin To Net: NetName=NetJ13_06 Pin=K5-4
+Added Net: Name=NetJ13_06
+Added Pin To Net: NetName=NetJ13_08 Pin=J13-08
+Added Pin To Net: NetName=NetJ13_08 Pin=K6-4
+Added Net: Name=NetJ13_08
+Added Member To Class: ClassName=U_DIGITAL_INPUTS Member=Component J8 1803484
+Added Member To Class: ClassName=U_DIGITAL_OUTPUTS_BLOCK_A Member=Component J12 1803484
+Added Member To Class: ClassName=U_DIGITAL_OUTPUTS_BLOCK_B Member=Component J13 1803484

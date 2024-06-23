@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=BT1-1
+Removed Pin From Net: NetName=+3.3V Pin=P1-1
+Removed Member From Class: ClassName=U_STM32_POWER Member=BT1
+Removed Member From Class: ClassName=U_STM32_POWER Member=J1
+Removed Member From Class: ClassName=U_STM32_POWER Member=P1
+Added Pin To Net: NetName=+3.3V Pin=C21-1
+Added Pin To Net: NetName=+3.3V Pin=U1-6

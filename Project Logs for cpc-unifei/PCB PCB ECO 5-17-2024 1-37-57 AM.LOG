@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VIN Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Member From Class: ClassName=U_POWER Member=C34

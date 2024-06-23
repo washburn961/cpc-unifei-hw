@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=PD14 Pin=R115-1
+Removed Pin From Net: NetName=GND Pin=R116-1
+Removed Member From Class: ClassName=U_POWER Member=Q4
+Removed Member From Class: ClassName=U_POWER Member=R115
+Removed Member From Class: ClassName=U_POWER Member=R116

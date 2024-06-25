@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ILIM Pin=U5-11
-Change Net Name : Old Net Name=ILIM New Net Name=IMON
-Added Pin To Net: NetName=ILIM Pin=U5-11
-Added Net: Name=ILIM

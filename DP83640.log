@@ -1,0 +1,9 @@
+NOTE (line  185) - Pulldown Typical data is non-monotonic
+NOTE (line  185) - Pulldown Minimum data is non-monotonic
+NOTE (line  185) - Pulldown Maximum data is non-monotonic
+NOTE (line  257) - Pullup Minimum data is non-monotonic
+NOTE (line  259) - Pullup Typical data is non-monotonic
+NOTE (line  259) - Pullup Maximum data is non-monotonic
+WARNING - Model osc25x1: POWER Clamp : Typical value never becomes zero
+WARNING - Model osc25x1: POWER Clamp : Minimum value never becomes zero
+WARNING - Model osc25x1: POWER Clamp : Maximum value never becomes zero

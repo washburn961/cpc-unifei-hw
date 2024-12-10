@@ -391,23 +391,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -424,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMWOWVOI
 
-[Document23]
+[Document22]
 DocumentPath=STM32_CONNECTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLEWHKRQ
 
-[Document24]
+[Document23]
 DocumentPath=PCB.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVZDDJQW
 
-[Document25]
+[Document24]
 DocumentPath=ADS8686S_BLOCK_B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNKALHOA
 
-[Document26]
+[Document25]
 DocumentPath=ADS8686S_BLOCK_A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUVLRGUV
 
-[Document27]
+[Document26]
 DocumentPath=FLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJIWVESQ
 
-[Document28]
+[Document27]
 DocumentPath=SDMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSAKEWBL
 
-[Document29]
+[Document28]
 DocumentPath=DIGITAL_OUTPUTS_BLOCK_B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGUXDISE
 
-[Document30]
+[Document29]
 DocumentPath=DIGITAL_OUTPUTS_BLOCK_A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHDCNOSP
 
-[Document31]
+[Document30]
 DocumentPath=DIGITAL_INPUTS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDWJGFKZ
 
-[Document32]
+[Document31]
 DocumentPath=DP83640.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,7 +577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHTEYOHW
 
-[Document33]
+[Document32]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGQXACWK
 
-[Document34]
+[Document33]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -628,24 +611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGTHRAGL
 
-[Document35]
-DocumentPath=CPC-UNIFEI.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document36]
+[Document34]
 DocumentPath=STM32_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -662,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYSXCPYJ
 
-[Document37]
+[Document35]
 DocumentPath=STM32_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAAPUAXD
 
-[Document38]
+[Document36]
 DocumentPath=TOP_LEVEL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -696,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRKAMDJJ
 
-[Document39]
+[Document37]
 DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document38]
 DocumentPath=G3VM-61VY2(TR05).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
